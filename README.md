@@ -2,7 +2,14 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This is Cryto app can be used to update with all the news about market right now like coins/exchanges.
+                  FEATURES
+This app has react-chatrt Js to show the current market data
+It has  pagination concept.
+Switch color theme is also used in this app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+TO RUN THIS APP.
+1->npm install.
+2->npm run dev.
